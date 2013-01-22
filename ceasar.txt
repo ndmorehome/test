@@ -13,3 +13,6 @@ Even more.
 Post branch creation commit.
 
 Commit to break/tree conflict.
+
+Breaker commit to break commit crap stuff.
+
